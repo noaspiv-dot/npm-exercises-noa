@@ -1,0 +1,18 @@
+{
+  "name": "npm-exercises-noa",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "ex1": "node ex1.js",
+    "ex2": "node ex2.js",
+    "ex3": "vitest"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "left-pad": "^1.3.0",
+    "title-case": "^4.3.2"
+  },
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
+}
